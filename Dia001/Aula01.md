@@ -66,7 +66,7 @@ Liga o servidor e deixa a aplicação rodando, esperando alguém fazer um pedido
 <br>
 <div align="center">
 
-| [Voltar](Dia001) | [Próximo](Aula02.md) |
-|---------------------|----------------------|
+| [Voltar à pasta](Aula01.md/..) | [Próxima aula](Aula01.md/../Aula02.md) |
+|--------------------------------|----------------------------------------|
   
 </div>
