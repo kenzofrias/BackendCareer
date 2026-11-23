@@ -32,7 +32,7 @@ Retorno esperada:
 ```
 
 Resposta adquirido com sucesso?
-- [ ] SIM
+- [X] SIM
 - [ ] NÃO
 
 <br>
