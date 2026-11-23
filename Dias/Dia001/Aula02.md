@@ -38,7 +38,7 @@ Resposta adquirido com sucesso?
 <br>
 <div align="center">
 
-| [Voltar à pasta](Aula02.md/..) | [Aula anterior](Aula02.md/../Aula01.md) | [Próxima Aula](Aula02.md/../Aula03.md) |
+| [Voltar à pasta](Aula02.md/..) | [Aula anterior](Aula02.md/../Aula01.md) | [Próximo dia](Aula02.md/../../Dia002) |
 |--------------------------------|-----------------------------------------|----------------------------------------|
   
 </div>
