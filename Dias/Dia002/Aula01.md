@@ -1,9 +1,9 @@
-## 1. Como funciona uma aplicação Back-end?
+# Como funciona uma aplicação Back-end?
 ```Text
 Objetivo: compreender a comunicação entre cliente e servidor e identificar o papel da nossa API dentro desse processo.
 ```
 
-### O que acontece quando você usa um site?
+## 1. O que acontece quando você usa um site?
 Ao acessar um loja virtual pelo navegador, você sabe de onde vêm dados como produtos, preços, imagens e informações visualizadas?
 Uma aplicação real, normalmente, possui diferentes partes trabalhando nisso:
 
@@ -119,3 +119,25 @@ sequenceDiagram
   O-->>F: Devolve os produtos em JSON
   Note right of F: Exibe os produtos para o usuário
 ```
+> Por enquanto, o nosso projeto ainda não tem todas essas partes. Mas essa é a arquitetura que construiremos progressivamente.
+
+## 5. O que foi visto nessa aula
+**Principal responsabilidade do cliente em uma arquitetura cliente-servidor:**
+> Iniciar solicitações ao servidor e interpretar suas respostas.
+
+**Principal responsabilidade do Back-end:**
+> Receber e processar solicitações, executar regras e lidar com dados.
+
+**Função de uma API nesse cenário:**
+> Definir uma forma de comunicação entre aplicações.
+
+**Função do Banco de Dados nessa arquitetura:**
+> Armazena e disponibiliza os dados utilizados pela aplicação.
+
+<br>
+<div align="center">
+
+| [Voltar à pasta](Aula01.md/..) | [Próxima aula](Aula01.md/../Aula02.md) |
+|--------------------------------|----------------------------------------|
+  
+</div>
