@@ -56,8 +56,7 @@ No OrderFlow, futuramente teremos informações como:
 
 > OBS: Por enquanto, ainda não temos banco de dados. Vamos adicioná-lo quando chegarmos à etapa de persistência.
 
-## 2. Como tudo se comunica?
-Conceito fundamental: **cliente-servidor**.
+## 2. Como tudo se comunica no ```cliente-servidor```?
 
 Para consultar os produtos disponíveis no OrderFlow, o processo seria:
 
@@ -76,6 +75,7 @@ Para consultar os produtos disponíveis no OrderFlow, o processo seria:
 **5. O cliente apresenta**
 > O navegador recebe os dados e pode exibi-los ao usuário.
 
+---
 Perceba umas coisas:
 - O **cliente** não precisa conhecer os detalhes internos do **servidor** ou do **banco de dados**.
 - Ele precisa conhecer como ***solicitar** a operação e **interpretar** a resposta.
@@ -87,7 +87,7 @@ Trata-se de uma das características fundamentais da arquitetura cliente-servido
 ## 3. Onde entra uma API?
 API significa _Application Programming Interface_ — Interface de Programação de Aplicações.
 
-Pense nela como um contrato de comunicação entre sistemas.No nosso caso, a API disponibiliza operações que outros sistemas podem solicitar.
+Pense nela como um contrato de comunicação entre sistemas. No nosso caso, a API disponibiliza operações que outros sistemas podem solicitar.
 
 Por exemplo:
 
