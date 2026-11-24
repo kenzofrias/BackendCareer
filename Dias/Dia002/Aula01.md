@@ -117,5 +117,5 @@ sequenceDiagram
   O->>BD: Recebe a requisição e processa a operação
   BD-->>O: Retorna os produtos cadastrados
   O-->>F: Devolve os produtos em JSON
-  Note right of Front: Exibe os produtos para o usuário
+  Note right of F: Exibe os produtos para o usuário
 ```
