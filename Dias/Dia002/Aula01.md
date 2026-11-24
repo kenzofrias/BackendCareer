@@ -18,7 +18,7 @@ sequenceDiagram
   S->>BD: Consulta ou Alteração de informações
   BD-->>S: Retorna registros
 ```
-
+---
 **Cliente:** É quem inicia a comunicação, solicitando alguma informação ou operação.
 
 Pode ser:
