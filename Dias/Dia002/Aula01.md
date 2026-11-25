@@ -137,7 +137,7 @@ sequenceDiagram
 <br>
 <div align="center">
 
-| [Voltar à pasta](Aula01.md/..) | [Próxima aula](Aula01.md/../Aula02.md) |
-|--------------------------------|----------------------------------------|
+| [Voltar à pasta](Aula01.md/..) | [Próximo dia](Aula01.md/../../Dia003) |
+|--------------------------------|---------------------------------------|
   
 </div>
